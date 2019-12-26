@@ -1,6 +1,6 @@
 # DISCORD BOT MODULAR
 
-Es una serie de desarrollo creando un bot de discord estructura y orientada a objetos (Modular).
+Es una serie de desarrollo creando un bot de Discord estructura y orientada a objetos (Modular).
 Espero que te guste esta serie y sigas las transmisiones de los directos de la serie:
 [https://www.twitch.tv/cratermaik/](https://www.twitch.tv/cratermaik/)
 ## CONFIGURACION
